@@ -1,0 +1,31 @@
+@media (max-width: 414px){
+  .title{
+    justify-content: space-around;
+  }
+  .search-content{
+    width: 90%;
+  }
+  .article-content{
+    width: 90%;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px){
+  .header-content{
+    width: 100%;
+  }
+
+  .title{
+    width: 90%;
+  }
+  .title{
+    justify-content: space-around;
+  }
+  .search-content{
+    width: 70%;
+  }
+  .article-content{
+    width: 90%;
+  }
+}

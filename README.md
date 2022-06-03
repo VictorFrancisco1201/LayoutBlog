@@ -1,0 +1,1 @@
+A blogging site, just for studies. Layout done by @IuriCode
